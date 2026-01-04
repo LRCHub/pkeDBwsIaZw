@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Wasting My Young Years",
+  "base_artist": "ロンドン・グラマー",
+  "createdAt": "2026-01-04T12:59:55.146449Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wasting My Young Years",
+      "artist": "Sound Remedy",
+      "has_synced": false,
+      "path": "select/01_Wasting_My_Young_Years_Sound_Remedy.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wasting My Young Years",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/02_Wasting_My_Young_Years_London_Grammar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wasting My Young Years",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/03_Wasting_My_Young_Years_London_Grammar.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wasting My Young Years",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/04_Wasting_My_Young_Years_London_Grammar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wasting My Young Years",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/05_Wasting_My_Young_Years_London_Grammar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wasting My Young Years",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/06_Wasting_My_Young_Years_London_Grammar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wasting My Young Years",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/07_Wasting_My_Young_Years_London_Grammar.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wasting My Young Years",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/08_Wasting_My_Young_Years_London_Grammar.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wasting My Young Years",
+      "artist": "Lone Tusker",
+      "has_synced": false,
+      "path": "select/09_Wasting_My_Young_Years_Lone_Tusker.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wasting My Young Years",
+      "artist": "London Grammar",
+      "has_synced": false,
+      "path": "select/pl_01_Wasting_My_Young_Years_London_Grammar.txt"
+    }
+  ]
+}

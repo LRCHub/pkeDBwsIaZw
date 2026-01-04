@@ -1,0 +1,48 @@
+# ロンドン・グラマー – Wasting My Young Years
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+You cross this line
+Do you find it hard to say it with me tonight?
+I've walked these miles but I've walked in straight line
+You'll never know what was there to be
+Fine
+
+I'm wasting my young years
+It doesn't matter here
+I'm chasing more ideas
+It doesn't matter here
+
+Baby
+We are
+We are
+Maybe I'm wasting my young years
+Baby
+We are
+We are
+Baby, I'm wasting my young years
+
+Don't you know that it's all I feel?
+I wouldn't worry, you have all your love
+I've heard it takes some time to get it behind
+
+I'm wasting my young years
+It doesn't matter here
+I'm chasing more ideas
+It doesn't matter here
+
+Baby
+We are
+We are
+Maybe I'm wasting my young years
+Baby
+We are
+We are
+Baby, I'm wasting my young years
+
+I don't know what you want
+Don't leave me hanging on
+Don't know what you want
+Don't leave me hanging on
+```
